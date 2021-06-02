@@ -1,0 +1,28 @@
+/* Elements */
+h2 {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    text-decoration: underline;
+}
+
+table, td, th {
+    border: 1px solid white;
+    color: white;
+    width: 30%;
+    border-collapse: collapse;
+}
+
+/* Classes */
+.title {
+    color: white;
+    text-align: center;
+}
+
+.top-table {
+    color: white;
+    font-style: italic;
+}
